@@ -1,4 +1,6 @@
 package com.project.vendoraidentity.utils;
 
-public class IdentityConstants {
+public enum UserRole {
+    USER,
+    ADMIN
 }
